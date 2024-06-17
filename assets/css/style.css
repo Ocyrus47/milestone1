@@ -19,16 +19,23 @@ body {
 
 /************************************ Header ******************************/
 
+/* Not using h2 for logo */
+
+/*
 h2 {
     color: #555;
     letter-spacing: 1px;
     text-decoration: none;
 }
 
+*/
+
 #logo {
     float: left;
     height: 100px;
-    width: 250px;
+    width: 260px;
+    margin-left: 15px;
+    padding-left: 15px;
 }
 
 
@@ -64,13 +71,73 @@ h2 {
     border-bottom: 2px solid #92220b;
 }
 
-/************************************ Hero Image *****************************/
+/************************************ Background Image *****************************/
 
-#hero-image {
-    height: 600px;
+#bg-image {
+    height: 700px;
     width: 100%;
-    background: blue;
+    background: url("../images/hero-image.jpg") no-repeat center center;
+    background-size: cover;
+
+    animation-name: hero-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: forwards;
 }
+
+
+#hero-outer{
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.2);
+    }
+}
+
+
+
+/************************************ outer text *****************************/
+
+#outer-text, #outer-text h2 , #outer-text h3 {
+    color: #92220b;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+
+#outer-text {
+    font-size: 100%;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 400px;
+    height: 100px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(242, 238, 238, 0.5);
+
+    top: 150px;
+    left: 150px;
+
+    position: absolute;
+
+    border-radius: 10px;
+}
+
+
+
+
+
 
 /************************************ Media Queries *****************************/
 
