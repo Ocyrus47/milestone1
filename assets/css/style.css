@@ -47,6 +47,7 @@ h2 {
     font-weight: 200;
     list-style-type: none;
     letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 #navbar li {
@@ -64,11 +65,11 @@ h2 {
 }
 
 #navbar a:hover {
-    border-bottom: 2px solid #92220b;
+    border-bottom: 1px solid #92220b;
 }
 
 .active {
-    border-bottom: 2px solid #92220b;
+    border-bottom: 1px solid #92220b;
 }
 
 /************************************ Background Image *****************************/
@@ -126,7 +127,7 @@ h2 {
 
     background-color: rgba(226, 223, 223, 0.418);
 
-    top: 150px;
+    top: 250px;
     left: 150px;
 
     position: absolute;
@@ -154,13 +155,31 @@ footer {
     margin: 20px;
     padding: 15px;
     color: #120238;
-    float: right;
 }
 
 .social-icons i:hover {
     color: #92220b;
 }
 
+
+footer h3, footer li {
+    color: #92220b;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    margin-left: 15px;
+    list-style-type: none;
+}
+
+footer h3 {
+    text-transform: uppercase;
+   
+}
+
+.footer-align {
+    text-align: center;
+    background-color: #646464;
+    padding-top: 15px;
+}
 
 
 /************************************ Media Queries *****************************/
