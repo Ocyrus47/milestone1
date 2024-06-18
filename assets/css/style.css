@@ -157,8 +157,22 @@ footer {
     color: #120238;
 }
 
+
 .social-icons i:hover {
     color: #92220b;
+
+    animation-name: icon-zoom;
+    animation-duration: 0.2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes icon-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.5);
+    }
 }
 
 
@@ -180,6 +194,8 @@ footer h3 {
     background-color: #aca4a4;
     padding-top: 15px;
 }
+
+
 
 
 /************************************ Media Queries *****************************/
