@@ -74,7 +74,7 @@ h2 {
 /************************************ Background Image *****************************/
 
 #bg-image {
-    height: 700px;
+    height: 800px;
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center;
     background-size: cover;
@@ -124,7 +124,7 @@ h2 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(242, 238, 238, 0.5);
+    background-color: rgba(226, 223, 223, 0.418);
 
     top: 150px;
     left: 150px;
@@ -135,7 +135,31 @@ h2 {
 }
 
 
+/************************************ footer *****************************/
 
+footer {
+    height: 150px;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons li {
+    display: inline;
+}
+
+.social-icons i {
+    font-size: 150%;
+    margin: 20px;
+    padding: 15px;
+    color: #120238;
+    float: right;
+}
+
+.social-icons i:hover {
+    color: #92220b;
+}
 
 
 
