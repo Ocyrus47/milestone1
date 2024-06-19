@@ -72,7 +72,7 @@ h2 {
     border-bottom: 1px solid #92220b;
 }
 
-/************************************ Background Image *****************************/
+/************************************ index Background Image *****************************/
 
 #bg-image {
     height: 800px;
@@ -103,21 +103,32 @@ h2 {
 }
 
 
+/************************************ service Background Image *****************************/
 
-/************************************ outer text *****************************/
+#service-bg-image {
+    height: 400px;
+    width: 100%;
+    background: url("../images/service-bg-image.jpg") no-repeat center center;
+    background-size: cover;
+}
 
-#outer-text, #outer-text h2 , #outer-text h3 {
+
+
+/************************************ index outer text *****************************/
+
+#index-outer-text, #index-outer-text h2 , #index-outer-text h3 {
     color: #92220b;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     font-weight: 300;
 }
 
 
-#outer-text {
+#index-outer-text {
     font-size: 100%;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
+    text-align: center;
 
     width: 400px;
     height: 100px;
@@ -133,6 +144,61 @@ h2 {
     position: absolute;
 
     border-radius: 10px;
+}
+
+
+/************************************ service outer text/button *****************************/
+
+#service-outer-text, #service-outer-text h3 , #service-outer-text h2 {
+    color: #92220b;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+
+#service-outer-text {
+    font-size: 100%;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 800px;
+    height: 170px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(116, 115, 115, 0.322);
+
+    top: 100px;
+    left: 550px;
+
+    position: absolute;
+
+    border-radius: 10px;
+}
+
+#service-btn {
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    color: #92220b;
+    background-color: #aca4a4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    font-weight: 400;
+}
+
+#service-btn:hover {
+    background-color: rgba(241, 238, 238, 0.281);
+    color: #92220b;
+
+    animation-name: icon-zoom;
+    animation-duration: 0.2s;
+    animation-fill-mode: forwards;
 }
 
 
