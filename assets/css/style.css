@@ -103,16 +103,6 @@ h2 {
 }
 
 
-/************************************ service Background Image *****************************/
-
-#service-bg-image {
-    height: 400px;
-    width: 100%;
-    background: url("../images/service-bg-image.jpg") no-repeat center center;
-    background-size: cover;
-}
-
-
 
 /************************************ index outer text *****************************/
 
@@ -144,6 +134,17 @@ h2 {
     position: absolute;
 
     border-radius: 10px;
+}
+
+
+
+/************************************ service Background Image *****************************/
+
+#service-bg-image {
+    height: 400px;
+    width: 100%;
+    background: url("../images/service-bg-image.jpg") no-repeat center center;
+    background-size: cover;
 }
 
 
@@ -181,8 +182,8 @@ h2 {
 
 #service-btn {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
-    color: #92220b;
-    background-color: #aca4a4;
+    color: #aca4a4;
+    background-color: #92220b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-align: center;
@@ -192,9 +193,10 @@ h2 {
     font-weight: 400;
 }
 
+
 #service-btn:hover {
-    background-color: rgba(241, 238, 238, 0.281);
-    color: #92220b;
+    background: #92220b;
+    color: #aca4a4;
 
     animation-name: icon-zoom;
     animation-duration: 0.2s;
