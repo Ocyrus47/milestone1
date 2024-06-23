@@ -253,6 +253,8 @@ h2 {
 }
 
 #service-container a:hover {
+    border-radius: 15px;
+
     animation-name: service-container-zoom;
     animation-duration: 0.2s;
     animation-fill-mode: forwards;
@@ -272,8 +274,7 @@ h2 {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     width: 500px;
     height: 300px;
-    border: 1px solid red;
-    background-color: rgba(226, 223, 223, 0.418);
+    background-color: rgba(141, 139, 139, 0.418);
     margin-right: 60px;
     padding-top: 25px;
     border-radius: 15px;
