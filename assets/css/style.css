@@ -141,13 +141,13 @@ h2 {
 
 /************************************ service Background Image *****************************/
 
+
 #service-bg-image {
     height: 400px;
     width: 100%;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
 }
-
 
 /************************************ service outer text/button *****************************/
 
@@ -179,7 +179,23 @@ h2 {
     position: absolute;
 
     border-radius: 10px;
+
+    animation-name: service-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
 }
+
+
+@keyframes service-zoom {
+    from {
+        transform: scale(1.5);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
 
 #service-btn {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
@@ -213,9 +229,16 @@ h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background-color: blue;
 }
 
+.hero-outer-2 {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: url("../images/services-bg-image.jpg") no-repeat center center;
+    background-size: cover;
+}
 
 #service-container {
     margin-top: 30px;
@@ -224,6 +247,10 @@ h2 {
     justify-content: center;
 }
 
+#service-container a {
+    text-decoration: none;
+    font-size: larger;
+}
 
 .services-block {
     color: #92220b;
