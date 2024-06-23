@@ -249,7 +249,22 @@ h2 {
 
 #service-container a {
     text-decoration: none;
-    font-size: larger;
+    font-size: 2.4rem;
+}
+
+#service-container a:hover {
+    animation-name: service-container-zoom;
+    animation-duration: 0.2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes service-container-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 .services-block {
