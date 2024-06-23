@@ -208,17 +208,22 @@ h2 {
 /************************************ service container *****************************/
 
 
-.hero-outer-1{
+.hero-outer-1 {
     height: 400px;
     width: 100%;
     overflow: hidden;
     position: relative;
+    background-color: blue;
 }
 
-#service-container-bg-image {
-    margin: 15px;
+
+#service-container {
+    margin-top: 30px;
     padding: 10px;
+    display: flex;
+    justify-content: center;
 }
+
 
 .services-block {
     color: #92220b;
@@ -227,18 +232,20 @@ h2 {
     height: 300px;
     border: 1px solid red;
     background-color: rgba(226, 223, 223, 0.418);
-    margin-right: 30px;
+    margin-right: 60px;
     padding-top: 25px;
     border-radius: 15px;
     text-align: center;
-    float: left;
+    
 }
 
 .services-block h4 {
     font-weight: 300;
 }
 
+
 /************************************ footer *****************************/
+
 
 footer {
     height: 100px;
