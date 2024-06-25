@@ -287,7 +287,11 @@ h2 {
 }
 
 
+
+
 /************************************ contact *****************************/
+
+
 
 .contact-bg-image {
     background: url("../images/service-bg-image.jpg") no-repeat center center;
@@ -295,12 +299,14 @@ h2 {
     height: 800px;
 }
 
+
 #contact-container {
     margin: 0px 15px;
     padding: 15px;
     padding-top: 30px;
     text-align: center;
 }
+
 
 .contact-form {
     font-size: 100%;
@@ -311,7 +317,7 @@ h2 {
 
     display: flex;
 
-    width: 1500px;
+    width: 1200px;
     height: 600px;
 
     padding-top: 20px;
@@ -320,7 +326,7 @@ h2 {
     background-color: rgba(70, 69, 69, 0.322);
 
     top: 100px;
-    left: 180px;
+    left: 330px;
 
     position: absolute;
 
@@ -333,12 +339,28 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 25px;
+
+    animation-name: contact-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
+
+
+@keyframes contact-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
 
 .contact-info {
     flex: 1;
     margin-right: 20px;
 }
+
 
 .contact-info h4 {
     font-weight: 400;
@@ -346,15 +368,18 @@ h2 {
     letter-spacing: 2px;
     font-size: 25px;
     padding-left: 40px;
+    text-decoration: underline;
 }
+
 
 .contact-info i {
     padding-top: 50px;
     padding-left: 40px;
 }
 
+
 .contact-info h5 {
-    font-weight: 200;
+    font-weight:400;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: small;
@@ -362,6 +387,31 @@ h2 {
     padding-left: 40px;
 }
 
+.contact-info a {
+    text-decoration: none;
+    color: #92220b;
+}
+
+.contact-info form {
+    padding-top: 50px;
+}
+
+.contact-info input, .contact-info textarea {
+    padding-top: 30px;
+    font-weight:400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: small;
+    display: inline-block;
+    margin-left: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+
+.contact-info textarea {
+    width: 455px;
+    height: 100px;
+}
 
 
 
