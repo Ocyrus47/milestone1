@@ -411,13 +411,25 @@ h2 {
 
 #submit-btn {
     width: 150px;
-    background-color: #92220b;
-    color: #fff;
     text-align: center;
     letter-spacing: 2px;
+
+    display: block;
+    padding: 15px;
+    background-color: #92220b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-behavior: ;
 }
 
-#submit-btn a:hover {
+#submit-btn:hover {
     animation-name: submit-zoom;
     animation-duration: 0.2s;
     animation-fill-mode: forwards;
@@ -450,10 +462,12 @@ h2 {
 
     background-color: #d6d0d0;
 
-    display: inline-block;
+    display: inline;
 
-    margin-left: 20px;
+    margin-left: 25px;
     padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 15px;
 
     border-radius: 10px;
 
