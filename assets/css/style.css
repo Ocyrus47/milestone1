@@ -393,7 +393,7 @@ h2 {
 }
 
 
-/************************ drop down *************************/
+/************************ drop down/submit button *************************/
 
 .drop-down-find {
     padding-left: 40px;
@@ -409,6 +409,29 @@ h2 {
     font-family: inherit;
 }
 
+#submit-btn {
+    width: 150px;
+    background-color: #92220b;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+#submit-btn a:hover {
+    animation-name: submit-zoom;
+    animation-duration: 0.2s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes submit-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
 
 /******************************* Forms  ************************/
 
@@ -448,6 +471,18 @@ h2 {
 input::placeholder {
     vertical-align: middle;
 }
+
+
+
+/************************************ iframe / map *****************************/
+
+
+#contact-map {
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+
 
 /************************************ footer *****************************/
 
