@@ -303,7 +303,7 @@ h2 {
 #contact-container {
     margin: 0px 15px;
     padding: 15px;
-    padding-top: 30px;
+    padding-top: 40px;
     text-align: center;
 }
 
@@ -318,9 +318,9 @@ h2 {
     display: flex;
 
     width: 1200px;
-    height: 600px;
+    height: 650px;
 
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 10px;
 
     background-color: rgba(70, 69, 69, 0.322);
@@ -374,7 +374,7 @@ h2 {
 
 .contact-info i {
     padding-top: 50px;
-    padding-left: 40px;
+    
 }
 
 
@@ -392,20 +392,42 @@ h2 {
     color: #92220b;
 }
 
-.contact-info form {
+
+/************************ drop down *******************/
+
+.drop-down-find {
+    padding-left: 40px;
+}
+
+.drop-down-find option {
+    border-radius: 10px;
+}
+
+
+/******************************* Forms  ********************/
+
+
+.contact-details {
     padding-top: 50px;
 }
 
 .contact-info input, .contact-info textarea {
     padding-top: 30px;
-    font-weight:400;
+    font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: small;
+
     display: inline-block;
+
     margin-left: 20px;
-    padding-left: 50px;
+    padding-left: 20px;
+
     border-radius: 10px;
+
+    color: #92220b;
+
+    text-align: left;
 }
 
 .contact-info textarea {
