@@ -559,7 +559,9 @@ footer h3 {
 }
 
 
-
+.footer-align p {
+    padding-bottom: 15px;
+}
 
 /************************************ Media Queries *****************************/
 
