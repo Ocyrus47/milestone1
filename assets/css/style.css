@@ -15,20 +15,8 @@ body {
 }
 
 
-
-
 /************************************ Header ******************************/
 
-/* Not using h2 for logo */
-
-/*
-h2 {
-    color: #555;
-    letter-spacing: 1px;
-    text-decoration: none;
-}
-
-*/
 
 #logo {
     float: left;
@@ -292,6 +280,7 @@ h2 {
     font-weight: 400;
     letter-spacing: 0;
     text-transform: capitalize;
+    color: #aca4a4;
 }
 
 
@@ -375,6 +364,7 @@ h2 {
     font-size: 25px;
     padding-left: 40px;
     text-decoration: underline;
+    padding-top: 30px;
 }
 
 
@@ -403,16 +393,21 @@ h2 {
 
 .drop-down-find {
     padding-left: 40px;
+    
 }
 
 .drop-down-find select {
-    border-radius: 10px;
-    width: 150px;
+    border-radius: 5px;
+    width: 200px;
     height: 25px;
     text-align: center;
     background-color: #d6d0d0;
     color: #92220b;
     font-family: inherit;
+}
+
+#align-drop-down {
+    display: inline-block;
 }
 
 #submit-btn {
@@ -432,7 +427,6 @@ h2 {
     transition-duration: 0.3s;
     transition-timing-function: ease;
     transition-delay: 0s;
-    transition-behavior: ;
 }
 
 #submit-btn:hover {
