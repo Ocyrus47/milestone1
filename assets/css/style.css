@@ -137,7 +137,9 @@ body {
     background-size: cover;
 }
 
+
 /************************************ service outer text/button *****************************/
+
 
 #service-outer-text, #service-outer-text h3 , #service-outer-text h2 {
     color: #92220b;
@@ -176,7 +178,7 @@ body {
 
 @keyframes service-zoom {
     from {
-        transform: scale(1.5);
+        transform: scale(1.1);
     }
     to {
         transform: scale(1);
@@ -202,9 +204,18 @@ body {
     background: #92220b;
     color: #aca4a4;
 
-    animation-name: icon-zoom;
+    animation-name: service-btn-zoom;
     animation-duration: 0.2s;
     animation-fill-mode: forwards;
+}
+
+@keyframes service-btn-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.2);
+    }
 }
 
 
@@ -262,7 +273,7 @@ body {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     width: 500px;
     height: 300px;
-    background-color: rgba(141, 139, 139, 0.418);
+    background-color: rgba(95, 94, 94, 0.418);
     margin-right: 60px;
     padding-top: 25px;
     border-radius: 15px;
@@ -565,3 +576,31 @@ footer h3 {
 
 /************************************ Media Queries *****************************/
 
+@media screen and (max-width: 625px){
+
+    #logo {
+        height: 30px;
+        width: 120px;
+        margin-left: 0;
+        padding-top: 25px;
+    }
+
+
+    #navbar {
+        font-size: 12px;
+        letter-spacing: 1px;
+        margin-left: 30px;
+    }
+
+
+    #index-outer-text {
+        font-size: 10px;
+        top: 75px;
+        left: 70px;
+        width: 250px;
+        height: 80px;
+        letter-spacing: 1px;
+    }
+
+
+}
