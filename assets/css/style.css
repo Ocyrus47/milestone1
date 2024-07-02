@@ -278,11 +278,11 @@ body {
     padding-top: 25px;
     border-radius: 15px;
     text-align: center;
-    
 }
 
 .services-block h4 {
     font-weight: 300;
+    font-family: inherit;
 }
 
 
@@ -618,11 +618,47 @@ footer h3 {
         margin: 10px;
     }
 
+
 /*********************************** service.html ********************************/
 
 
-    
+.hero-outer-2 {
+    height: 720px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: url("../images/services-bg-image.jpg") no-repeat center center;
+    background-size: cover;
+}
 
+    #service-outer-text {
+        font-size: 10px;
+        top: 75px;
+        left: 45px;
+        width: 300px;
+        height: 150px;
+        letter-spacing: 1px;
+    }
+
+    #service-container {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .services-block {
+        color: #92220b;
+        font-family: "Barlow", Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        width: 300px;
+        height: 150px;
+        left: 40px;
+        background-color: rgba(95, 94, 94, 0.418);
+        margin-top: 20px;
+        padding-top: 25px;
+        border-radius: 15px;
+        text-align: center;
+        position: relative;
+    }
 
 /*********************************** contact.html ********************************/
 
