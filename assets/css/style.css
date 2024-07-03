@@ -718,9 +718,34 @@ footer h3 {
     text-align: left;
 }
 
-.contact-info, .contact-info h4, .contact-info .contact-details {
-    float: left;
-    
+.contact-info h4 {
+    font-size: 15px;
+}
+
+.contact-info h5 {
+    font-size: 10px;
+}
+
+.drop-down-find {
+    font-size: 10px;
+}
+
+.drop-down-find select {
+    width: 100px;
+}
+
+.contact-details input, .contact-details textarea  {
+    font-size: 10px;
+}
+
+.contact-info textarea {
+    width: 150px;
+    height: 75px;
+}
+
+.contact-details label {
+    font-size: 12px;
+    color: #92220b;
 }
 
 }
