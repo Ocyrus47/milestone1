@@ -494,7 +494,7 @@ input::placeholder {
 #contact-map {
     height: 500px;
     width: 100%;
-    position: relative;
+    position: absolute;
 }
 
 
@@ -651,16 +651,20 @@ footer h3 {
 
 /*********************************** contact.html ********************************/
 
-/*
+
 #hero-outer {
-    height: 1200px;
+    height: 1050px;
 }
 
 .contact-bg-image {
-    height: 1200px;
+    height: 1050px;
 }
-*/
 
+#bg-image {
+    height: 1050px;
+}
+
+/*
 #contact-container {
     margin: 0px 15px;
     padding: 15px;
@@ -668,6 +672,7 @@ footer h3 {
     text-align: center;
     height: 1200px;
 }
+*/
 
 #hero-outer h3 {
     font-size: 15px;
@@ -680,21 +685,23 @@ footer h3 {
     letter-spacing: 2px;
     text-align: justify;
 
-    width: 600px;
+    width: 430px;
     height: 1200px;
 
     padding-top: 10px;
-    padding-left: 10px;
+    padding-left: 2px;
 
     background-color: rgba(70, 69, 69, 0.322);
 
-    top: 100px;
     left: 10px;
 
     position: absolute;
 
+    display: block;
+
     border-radius: 10px;
 }
+
 
 .contact-details input, .contact-details textarea {
     padding-top: 30px;
@@ -718,6 +725,10 @@ footer h3 {
     text-align: left;
 }
 
+#fname, #lname, #email, #tel, #job-title, #buss {
+    width: 150px;
+}
+
 .contact-info h4 {
     font-size: 15px;
 }
@@ -731,7 +742,7 @@ footer h3 {
 }
 
 .drop-down-find select {
-    width: 100px;
+    width: 150px;
 }
 
 .contact-details input, .contact-details textarea  {
@@ -739,7 +750,7 @@ footer h3 {
 }
 
 .contact-info textarea {
-    width: 170px;
+    width: 370px;
     height: 75px;
 }
 
