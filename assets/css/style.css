@@ -298,7 +298,6 @@ body {
 /************************************ contact *****************************/
 
 
-
 .contact-bg-image {
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
@@ -583,7 +582,6 @@ footer h3 {
         padding-top: 25px;
 }
 
-
 #navbar {
         font-size: 12px;
         letter-spacing: 1px;
@@ -595,7 +593,6 @@ footer h3 {
         margin-right: 15px;
         font-weight: 400;
 }
-
 
 #index-outer-text {
         font-size: 10px;
@@ -614,9 +611,7 @@ footer h3 {
         margin: 10px;
 }
 
-
 /*********************************** service.html ********************************/
-
 
 .hero-outer-2 {
     height: 635px;
@@ -661,5 +656,16 @@ footer h3 {
 }
 
 /*********************************** contact.html ********************************/
+
+#hero-outer h3 {
+    font-size: 15px;
+}
+
+#contact-form {
+    margin: 0 auto;
+    float: left;
+    width: 300px;
+
+}
 
 }
