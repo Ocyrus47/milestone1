@@ -572,39 +572,39 @@ footer h3 {
 /*********************************** index.html ********************************/
 
 #logo {
-        height: 30px;
-        width: 120px;
-        margin-left: 0;
-        padding-top: 25px;
+    height: 30px;
+    width: 120px;
+    margin-left: 0;
+    padding-top: 25px;
 }
 
 #navbar {
-        font-size: 12px;
-        letter-spacing: 1px;
-        margin-left: 30px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-left: 30px;
 }
 
 #navbar li {
-        float: right;
-        margin-right: 15px;
-        font-weight: 400;
+    float: right;
+    margin-right: 15px;
+    font-weight: 400;
 }
 
 #index-outer-text {
-        font-size: 10px;
-        top: 75px;
-        left: 70px;
-        width: 250px;
-        height: 80px;
-        letter-spacing: 1px;
+    font-size: 10px;
+    top: 75px;
+    left: 70px;
+    width: 250px;
+    height: 80px;
+    letter-spacing: 1px;
 }
 
  #index-outer-text, #index-outer-text h2 , #index-outer-text h3 {
-        font-weight: 400;
+    font-weight: 400;
 }
 
 .social-icons i {
-        margin: 10px;
+    margin: 10px;
 }
 
 /*********************************** service.html ********************************/
@@ -619,40 +619,41 @@ footer h3 {
 }
 
 #service-outer-text {
-        font-size: 10px;
-        top: 80px;
-        left: 45px;
-        width: 300px;
-        height: 150px;
-        letter-spacing: 1px;
+    font-size: 10px;
+    top: 80px;
+    left: 45px;
+    width: 300px;
+    height: 150px;
+    letter-spacing: 1px;
 }
 
 #service-container {
-        display: block;
-        margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .services-block {
-        width: 100%;
-        height: 150px;
-        margin: 0;
-        background-color: rgba(95, 94, 94, 0.418);
-        padding-top: 25px;
-        border-radius: 0px;
-        text-align: center;
-        position: relative;
+    width: 100%;
+    height: 150px;
+    margin: 0;
+    background-color: rgba(95, 94, 94, 0.418);
+    padding-top: 25px;
+    border-radius: 0px;
+    text-align: center;
+    position: relative;
 }
 
 .services-block h4 {
-        font-family: "Barlow", Arial, Helvetica, sans-serif;
-        color: #92220b;
-        font-size: 15px;
-        font-weight: 500;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    color: #92220b;
+    font-size: 15px;
+    font-weight: 500;
 
 }
 
 /*********************************** contact.html ********************************/
 
+/*
 #hero-outer {
     height: 1200px;
 }
@@ -660,6 +661,7 @@ footer h3 {
 .contact-bg-image {
     height: 1200px;
 }
+*/
 
 #contact-container {
     margin: 0px 15px;
@@ -739,7 +741,7 @@ footer h3 {
 }
 
 .contact-info textarea {
-    width: 150px;
+    width: 170px;
     height: 75px;
 }
 
