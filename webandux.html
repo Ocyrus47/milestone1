@@ -34,16 +34,107 @@
     </header>
 
 <!-- using boothstrap class-->
-    <section class="hero-outer">
-        <div class="container-sm">
-            <div class="row justify-content-between">
-                <div class="col-4">
-                  One of two columns
+    <section id="hero-outer">
+        <div class="contact-bg-image">
+            <div id="contact-container">
+                <h3>Let's work together!</h3>
+            </div>
+
+            <div class="contact-form">
+                <div class="contact-info">
+
+            <div class="container-sm">
+                <div class="row justify-content-evenly">
+                    <div class="col-4">
+                    
+                        <h4>Contact details</h4>
+
+                            <h5><i class="fa-solid fa-phone"></i> | Phone</h5>
+                             <br>
+                            <h5>+44 (0) 7588 376 952</h5> 
+
+                            <br>
+
+                            <h5><i class="fa-brands fa-whatsapp"></i> | Whatsapp</h5>
+                            <br>
+                            <h5><a href="https://www.whatsapp.com" target="_blank">+44 (0) 7588 376 952</a></h5> 
+
+                            <br>
+
+                            <h5><i class="fa-solid fa-envelope"></i> | email</h5>
+                            <br>
+                            <h5><a href="mailto:omin.limbu@hotmail.com" target="_blank">omin.limbu@hotmail.com</a></h5> 
+                            
+                            <form class="drop-down-find">
+                                <p>How did you find me? </p>
+    
+                                <label for="find">
+                                    
+                                    <br>
+                                        <!---drop down menu for forms-->
+                                        <select name="find" id="find">
+                                            <option value="select">Please Select</option>
+                                            <option value="recommendation">Recommendation</option>
+                                            <option value="google">Google / Search</option>
+                                            <option value="linkedin">LinkedIn</option>
+                                            <option value="instagram">Instagram</option>
+                                            <option value="client">Existing Client</option>
+                                        </select>
+                                
+                                </label>
+                            </form>
+    
                 </div>
                 <div class="col-4">
-                  One of two columns
+                    
+                    <h4>Send a message</h4>
+
+                            <form class="contact-details">
+                                <!--input fields for form-->
+                                <input type="text" id="fname" placeholder="First Name">
+                                <input type="text" id="lname" placeholder="Last Name">
+
+                                <br>
+                                <br>
+                                   
+                                    
+                                <input type="text" id="email" placeholder="Email Address">
+                                <input type="text" id="tel" placeholder="Telephone">
+
+                                <br>
+                                <br>
+
+                                <input type="text" id="job-title" placeholder="Job Title">
+                                <input type="text" id="buss" placeholder="Business">
+
+                                <br>
+                                <br>
+
+                                <textarea name="details" id="details" placeholder="Your message"></textarea>
+
+                                <br>
+                                <br>
+                                    <!--- radio options for services-->
+                                    <input type="radio" name="service" id="web-ux">
+                                    <label class="radio-inline" for="web-ux"> Web & UX Designs</label>
+                                    
+                                    <input type="radio" name="service" id="web-dev">
+                                    <label class="radio-inline" for="web-dev"> Web Development</label>
+
+                                    <input type="radio" name="service" id="web-maint">
+                                    <label class="radio-inline" for="web-dev"> Web Maintainance</label>
+
+                                <br>
+                                <br> 
+                                
+                                    <input type="submit" id="submit-btn" value="SEND →">
+
+                            </form>
+
                 </div>
-              </div>            
+            </div>  
+            </div>
+                </div>            
         </div> 
     </section>
 
