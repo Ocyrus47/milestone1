@@ -306,6 +306,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: justify;
+    margin: 20px 300px;
 
     display: flex;
 
@@ -317,13 +318,12 @@ body {
 
     background-color: rgba(70, 69, 69, 0.322);
 
-    top: 100px;
-    left: 330px;
-
     position: absolute;
 
     border-radius: 10px;
 }
+
+
 
 #contact-container h3 {
     font-weight: 400;
@@ -587,8 +587,9 @@ footer h3 {
 
 #index-outer-text {
     font-size: 10px;
-    top: 75px;
-    left: 70px;
+    top: 125px;
+    left: 110px;
+    
     width: 250px;
     height: 80px;
     letter-spacing: 1px;
@@ -616,7 +617,7 @@ footer h3 {
 #service-outer-text {
     font-size: 10px;
     top: 80px;
-    left: 45px;
+    left: 80px;
     width: 300px;
     height: 150px;
     letter-spacing: 1px;
@@ -646,6 +647,7 @@ footer h3 {
 
 }
 
+
 /*********************************** contact.html ********************************/
 
 
@@ -671,12 +673,10 @@ footer h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: justify;
+    margin: 15px auto;
 
-    width: 430px;
-    height: 1200px;
-
-    padding-top: 10px;
-    padding-left: 2px;
+    width: 450px;
+    height: 920px;
 
     background-color: rgba(70, 69, 69, 0.322);
 
@@ -689,6 +689,16 @@ footer h3 {
     border-radius: 10px;
 }
 
+.contact-info h4 {
+    padding-bottom: 20px;
+}
+
+
+.contact-details, .contact-info {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
 
 .contact-details input, .contact-details textarea {
     padding-top: 30px;
@@ -722,6 +732,10 @@ footer h3 {
     color: #d6d0d0;
 }
 
+#test {
+    text-align: center;
+}
+
 #fname, #lname, #email, #tel, #job-title, #buss {
     width: 150px;
 }
@@ -747,7 +761,7 @@ footer h3 {
 }
 
 .contact-info textarea {
-    width: 370px;
+    width: 350px;
     height: 75px;
 }
 
