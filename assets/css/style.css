@@ -234,12 +234,12 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background: url("../images/services-bg-image.jpg") no-repeat center center;
+    background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
 }
 
 #service-container {
-    margin-top: 30px;
+    margin-top: 60px;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -271,8 +271,8 @@ body {
 .services-block {
     color: #92220b;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
     background-color: rgba(95, 94, 94, 0.418);
     margin-right: 60px;
     padding-top: 25px;
@@ -361,12 +361,10 @@ body {
     }
 }
 
-
 .contact-info {
     flex: 1;
     margin-right: 20px;
 }
-
 
 .contact-info h4 {
     font-weight: 400;
@@ -378,12 +376,10 @@ body {
     padding-top: 30px;
 }
 
-
 .contact-info i {
     padding-top: 50px;
     
 }
-
 
 .contact-info h5 {
     font-weight:400;
@@ -627,7 +623,7 @@ footer h3 {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background: url("../images/services-bg-image.jpg") no-repeat center center;
+    background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
 }
 
