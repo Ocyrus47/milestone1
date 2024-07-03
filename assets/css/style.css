@@ -304,14 +304,12 @@ body {
     height: 800px;
 }
 
-
 #contact-container {
     margin: 0px 15px;
     padding: 15px;
     padding-top: 40px;
     text-align: center;
 }
-
 
 .contact-form {
     font-size: 100%;
@@ -337,7 +335,6 @@ body {
 
     border-radius: 10px;
 }
-
 
 #contact-container h3 {
     font-weight: 400;
@@ -458,7 +455,7 @@ body {
     padding-top: 50px;
 }
 
-.contact-info input, .contact-info textarea {
+.contact-details input, .contact-details textarea {
     padding-top: 30px;
     font-weight: 400;
     font-family: inherit;
@@ -491,7 +488,6 @@ body {
 input::placeholder {
     vertical-align: middle;
 }
-
 
 
 /************************************ iframe / map *****************************/
@@ -657,15 +653,74 @@ footer h3 {
 
 /*********************************** contact.html ********************************/
 
+#hero-outer {
+    height: 1200px;
+}
+
+.contact-bg-image {
+    height: 1200px;
+}
+
+#contact-container {
+    margin: 0px 15px;
+    padding: 15px;
+    padding-top: 40px;
+    text-align: center;
+    height: 1200px;
+}
+
 #hero-outer h3 {
     font-size: 15px;
 }
 
-#contact-form {
-    margin: 0 auto;
-    float: left;
-    width: 300px;
+.contact-form {
+    font-size: 15px;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: justify;
 
+    width: 600px;
+    height: 1200px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+
+    background-color: rgba(70, 69, 69, 0.322);
+
+    top: 100px;
+    left: 10px;
+
+    position: absolute;
+
+    border-radius: 10px;
+}
+
+.contact-details input, .contact-details textarea {
+    padding-top: 30px;
+    font-weight: 400;
+    font-family: inherit;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 15px;
+
+    background-color: #d6d0d0;
+
+    margin-left: 25px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+
+    border-radius: 10px;
+
+    color: #92220b;
+
+    text-align: left;
+}
+
+.contact-info, .contact-info h4, .contact-info .contact-details {
+    float: left;
+    
 }
 
 }
