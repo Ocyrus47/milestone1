@@ -499,9 +499,9 @@ input::placeholder {
 }
 
 
-/************************************ webandux.html *****************************/
+/************************************ webandux.html/webmaint.html/webdev.html *****************************/
 
-
+/*
 .service-info-container {
     margin-top: 20px;
     padding: 10px;
@@ -510,6 +510,7 @@ input::placeholder {
     font-family: inherit;
     font-size: 20px;
     }
+    */
 
 .service-info-form {
     font-size: 17px;
@@ -865,24 +866,14 @@ footer h3 {
     height: 1050px;
 }
 
-.service-info-form-1, .service-info-form-2, .service-info-form-3 {
+.service-info-form {
     font-size: 15px;
     margin: 5px;
     width: 435px;
+    height: 200px;
     margin-top: 50px;
 }
 
-.service-info-form-1 {
-    height: 250px;
-}
-
-.service-info-form-2 {
-    height: 300px;
-}
-
-.service-info-form-3 {
-    height: 250px;
-}
 
 .service-info-form h1 {
     text-align: left;
@@ -895,9 +886,8 @@ footer h3 {
     height: 170px;
     padding-top: 5px;
     position: relative;
-    margin-top: 0;
+    margin-top: 50px;
 }
-
 
 .services-block-text {
     color: #92220b;
@@ -911,6 +901,20 @@ footer h3 {
     text-align: center;
 }
 
+.services-block-text span {
+    font-size: 20px;
+    color: #fff;
+}
+
+.services-block-text h3 {
+    font-size: larger;
+}
+
+.services-block-text a {
+    color: #92220b;
+    text-decoration: none;
+    font-weight: bold;
+}
 
 
 /***** paragraph hidden immideate after h1 *****/ 
