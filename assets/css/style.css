@@ -552,6 +552,18 @@ input::placeholder {
     display: flex;
 }
 
+.services-block-text {
+    color: #92220b;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    width: 400px;
+    height: 250px;
+    background-color: rgba(95, 94, 94, 0.418);
+    margin-right: 60px;
+    padding-top: 25px;
+    border-radius: 15px;
+    text-align: center;
+}
+
 .service-info-block h1, .service-info-block span {
     font-weight: 700;
 }
@@ -849,20 +861,59 @@ footer h3 {
 
 /*********************************** webandux.html ********************************/
 
+.service-info-bg {
+    height: 1050px;
+}
+
 .service-info-form {
     font-size: 15px;
     margin: 5px;
     width: 435px;
-    height: 300px;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.service-info-form h1 {
+    text-align: left;
 }
 
 .service-info-block {
     font-size: 15px;
-    margin: 0;
     display: block;
-    width: 450px;
-    height: 150px;
+    width: 100%;
+    height: 170px;
+    padding-top: 5px;
+    position: relative;
+    margin-top: 0;
 }
 
+
+.services-block-text {
+    color: #92220b;
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 170px;
+    background-color: rgba(95, 94, 94, 0.418);
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+/***** paragraph hidden immideate after h1 *****/ 
+.service-info-form > p {
+    display: none;
+}
+
+/*
+    width: 100%;
+    height: 170px;
+    margin: 0;
+    background-color: rgba(95, 94, 94, 0.418);
+    padding-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+*/
 
 }
