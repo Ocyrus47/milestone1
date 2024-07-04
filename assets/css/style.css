@@ -499,6 +499,25 @@ input::placeholder {
 }
 
 
+/************************************ webandux.html *****************************/
+
+
+.service-info-container {
+        margin-top: 60px;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        opacity: 90%;
+    }
+
+.service-info-bg{
+        height: 800px;
+        width: 100%;
+        background: url("../images/service-bg-image.jpg") no-repeat center center;
+        background-size: cover;
+}
+
+
 /************************************ footer *****************************/
 
 
