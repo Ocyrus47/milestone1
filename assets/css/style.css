@@ -865,12 +865,23 @@ footer h3 {
     height: 1050px;
 }
 
-.service-info-form {
+.service-info-form-1, .service-info-form-2, .service-info-form-3 {
     font-size: 15px;
     margin: 5px;
     width: 435px;
-    height: 250px;
     margin-top: 50px;
+}
+
+.service-info-form-1 {
+    height: 250px;
+}
+
+.service-info-form-2 {
+    height: 300px;
+}
+
+.service-info-form-3 {
+    height: 250px;
 }
 
 .service-info-form h1 {
@@ -899,6 +910,8 @@ footer h3 {
     border-radius: 15px;
     text-align: center;
 }
+
+
 
 /***** paragraph hidden immideate after h1 *****/ 
 .service-info-form > p {
