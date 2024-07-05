@@ -899,8 +899,22 @@ footer h3 {
     margin-top: 30px;
 }
 
-.service-info-form h1 {
+.service-info-form h1, .service-info-form h2, .service-info-form-1 h1, .service-info-form-1 h2 {
     text-align: left;
+    font-weight: 300;
+}
+
+.service-info-form h2 {
+    margin-top: 100px;
+
+}
+
+br {
+    display: none;
+}
+
+.service-info-form-1 h2 {
+    margin-top: 80px;
 }
 
 .service-info-block {
