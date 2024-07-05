@@ -800,11 +800,6 @@ footer h3 {
     border-radius: 10px;
 }
 
-.contact-info h4 {
-    padding-bottom: 20px;
-}
-
-
 .contact-details, .contact-info {
     padding: 0;
     margin: 0;
@@ -853,6 +848,8 @@ footer h3 {
 
 .contact-info h4 {
     font-size: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
 }
 
 .contact-info h5 {
@@ -908,12 +905,7 @@ footer h3 {
 }
 
 .service-info-form h2 {
-    margin-top: 100px;
-
-}
-
-br {
-    display: none;
+    margin-top: 50px;
 }
 
 .service-info-form-1 h2 {
@@ -963,6 +955,10 @@ br {
     height: 200px;
     display: block;
     margin: 0 auto;
+}
+
+.service-info-form-1 br {
+    display: none;
 }
 
 /***** paragraph hidden immideate after h1 *****/ 
