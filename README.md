@@ -29,7 +29,14 @@ This is a responsive website for anyone who is looking to design or build a new 
 
 The website takes into consideration the work required to build and maintain a responsive website for startups, businesses and agencies. Understanding the line of business for the project and the emotion driven decisions for the potential customers for startup or the requirements required by agencies, this website is designed to have fewest number of steps to bring their questions and projects in front of the service provider. 
 
+The business goal for this website are:
 
+<ul>
+    <li>Build a solid brand awareness</li>
+    <li>Provide industry standard guide and best practice for web design, development and necessity for web waintainance to potential customers</li>
+    <li>Engaging UX design to keep potential customers engaged to ultimately reach out for first point of contact for advice and/or service</li>
+    <li>Drive sales in form of first contact via contact page and eventually lead to project and requirements via call or meeting</li>
+</ul>
 
 
 
