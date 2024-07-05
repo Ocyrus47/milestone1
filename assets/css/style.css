@@ -512,7 +512,7 @@ input::placeholder {
     }
     */
 
-.service-info-form {
+.service-info-form, .service-info-form-1 {
     font-size: 17px;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     font-weight: 300;
@@ -532,6 +532,11 @@ input::placeholder {
     
     border-radius: 10px;
     }
+
+.service-info-form-1 {
+    height: 250px;
+}
+
 
 .service-info-bg{
     height: 800px;
@@ -565,6 +570,7 @@ input::placeholder {
     text-align: center;
 }
 
+
 .service-info-block h1, .service-info-block span {
     font-weight: 700;
 }
@@ -574,10 +580,15 @@ input::placeholder {
     padding: 10px;
 }
 
-.services-block a {
+.services-block-text a {
     text-decoration: none;
     color: #92220b;
     font-weight: bold;
+}
+
+.services-block-text span {
+    font-size: 20px;
+    color:  #d6d0d0
 }
 
 
@@ -866,14 +877,13 @@ footer h3 {
     height: 1050px;
 }
 
-.service-info-form {
+.service-info-form, .service-info-form-1 {
     font-size: 15px;
     margin: 5px;
     width: 435px;
     height: 200px;
     margin-top: 50px;
 }
-
 
 .service-info-form h1 {
     text-align: left;
@@ -903,11 +913,11 @@ footer h3 {
 
 .services-block-text span {
     font-size: 20px;
-    color: #fff;
+    color:  #d6d0d0
 }
 
-.services-block-text h3 {
-    font-size: larger;
+.services-block-text h4 {
+    font-size: 25px;
 }
 
 .services-block-text a {
@@ -918,19 +928,9 @@ footer h3 {
 
 
 /***** paragraph hidden immideate after h1 *****/ 
-.service-info-form > p {
+.service-info-form > p, .service-info-form-1 > p {
     display: none;
 }
 
-/*
-    width: 100%;
-    height: 170px;
-    margin: 0;
-    background-color: rgba(95, 94, 94, 0.418);
-    padding-top: 5px;
-    border-radius: 5px;
-    text-align: center;
-    position: relative;
-*/
 
 }
