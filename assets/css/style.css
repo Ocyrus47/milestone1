@@ -71,7 +71,7 @@ body {
 }
 
 #bg-image {
-    height: 800px;
+    height: 1000px;
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center;
     background-size: cover;
@@ -93,12 +93,12 @@ body {
 
 /************************************ index outer text *****************************/
 
+
 #index-outer-text, #index-outer-text h2 , #index-outer-text h3 {
     color: #92220b;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     font-weight: 300;
 }
-
 
 #index-outer-text {
     font-size: 100%;
@@ -124,9 +124,15 @@ body {
 }
 
 
-
 /************************************ service Background Image *****************************/
 
+
+.hero-outer-1 {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 
 #service-bg-image {
     height: 400px;
@@ -144,7 +150,6 @@ body {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     font-weight: 400;
 }
-
 
 #service-outer-text {
     font-size: 100%;
@@ -219,13 +224,6 @@ body {
 
 /************************************ service container/service.html *****************************/
 
-
-.hero-outer-1 {
-    height: 400px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
 
 .hero-outer-2 {
     height: 400px;
@@ -327,8 +325,6 @@ body {
     border-radius: 10px;
 }
 
-
-
 #contact-container h3 {
     font-weight: 400;
     text-transform: uppercase;
@@ -339,7 +335,6 @@ body {
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
-
 
 @keyframes contact-zoom {
     from {
@@ -512,6 +507,20 @@ input::placeholder {
     }
     */
 
+ #hero-outer-service {
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.service-info-bg{
+    height: 1000px;
+    width: 100%;
+    background: url("../images/service-bg-image.jpg") no-repeat center center;
+    background-size: cover;
+}
+
 .service-info-form, .service-info-form-1 {
     font-size: 17px;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
@@ -534,15 +543,7 @@ input::placeholder {
     }
 
 .service-info-form-1 {
-    height: 250px;
-}
-
-
-.service-info-bg{
-    height: 800px;
-    width: 100%;
-    background: url("../images/service-bg-image.jpg") no-repeat center center;
-    background-size: cover;
+    height: 520px;
 }
 
 
