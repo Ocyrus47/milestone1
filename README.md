@@ -27,6 +27,8 @@ This is a responsive website for anyone who is looking to design or build a new 
     </li>
 </ol>
 
+The website takes into consideration the work required to build and maintain a responsive website for startups, businesses and agencies. Understanding the line of business for the project and the emotion driven decisions for the potential customers for startup or the requirements required by agencies, this website is designed to have fewest number of steps to bring their questions and projects in front of the service provider. 
+
 
 
 
