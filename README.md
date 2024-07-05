@@ -4,7 +4,7 @@
 
 <a href="https://ocyrus47.github.io/milestone1/" target="_blank"> Link to milestone 1 project / OL Designs </a>
 
-This is a responsive website for anyone who is looking to design or build a new or maintain their current custom website. The website features information and best practice youtube videos from industry experts for interested individuals looking to hire OL Designs (me) for the purpose of designing, developing or mainting their website. The website contains 6 pages in total which are home/index, services, contact, Design & UX, Web Development and Web Maintainance page. 
+This is a responsive website for anyone who is looking to design or build a new or maintain their current custom website. The website features information and best practice youtube videos from industry experts for interested individuals looking to hire OL Designs (me) for the purpose of designing, developing or mainting their website. The website contains 6 pages in total which are home/index, services, contact, Design & UX, Web Development and Web Maintainance page. The primary goal of the website is to lead potential customers to making first contact with the web developer via the contact page and offer them industry knowledge for web design, development and maintainance.
 
 <ol>
     <li>
