@@ -878,18 +878,25 @@ footer h3 {
     color: #92220b;
 }
 
-/*********************************** webandux.html ********************************/
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+#hero-outer-service {
+    height: 1100px;
+}
 
 .service-info-bg {
-    height: 1050px;
+    height: 1100px;
 }
 
 .service-info-form, .service-info-form-1 {
     font-size: 15px;
-    margin: 5px;
+    display: block;
+    margin: 0 auto;
     width: 435px;
-    height: 200px;
-    margin-top: 50px;
+    height: 315px;
+    margin-top: 30px;
 }
 
 .service-info-form h1 {
@@ -912,7 +919,8 @@ footer h3 {
     width: 100%;
     height: 170px;
     background-color: rgba(95, 94, 94, 0.418);
-    margin-top: 30px;
+    display: block;
+    margin: 10px auto;
     padding-top: 10px;
     border-radius: 15px;
     text-align: center;
@@ -933,6 +941,12 @@ footer h3 {
     font-weight: bold;
 }
 
+.video-input {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
 
 /***** paragraph hidden immideate after h1 *****/ 
 .service-info-form > p, .service-info-form-1 > p {
