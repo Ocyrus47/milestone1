@@ -61,6 +61,11 @@ body {
     border-bottom: 1px solid #92220b;
 }
 
+.menu-position {
+    position: sticky;
+    top: 0;
+}
+
 /************************************ index Background Image *****************************/
 
 #hero-outer{
@@ -496,16 +501,6 @@ input::placeholder {
 
 /************************************ webandux.html/webmaint.html/webdev.html *****************************/
 
-/*
-.service-info-container {
-    margin-top: 20px;
-    padding: 10px;
-    display: flex;
-    width: 800px;
-    font-family: inherit;
-    font-size: 20px;
-    }
-    */
 
  #hero-outer-service {
     height: 1000px;
@@ -546,6 +541,11 @@ input::placeholder {
     height: 520px;
 }
 
+.service-info-form-1 a {
+    text-decoration: none;
+    color: #92220b;
+    font-weight: bold;
+}
 
 .service-info-block {
     color: #92220b;
@@ -571,7 +571,6 @@ input::placeholder {
     text-align: center;
 }
 
-
 .service-info-block h1, .service-info-block span {
     font-weight: 700;
 }
@@ -579,6 +578,10 @@ input::placeholder {
 .service-info-block h1, .service-info-block p {
     color: #92220b;
     padding: 10px;
+}
+
+.services-block-text h4 {
+    font-size: 25px;
 }
 
 .services-block-text a {
