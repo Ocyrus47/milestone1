@@ -226,3 +226,9 @@ All background image was taken from <a href="https://www.pexels.com/" target="_b
 Images in services page was used from <a href="https://www.flaticon.com/" target="_blank" alt="Flaticon website link"> Flaticon.</a>
 
 Completed icon for readme was resized from <a href="https://imageresizer.com/" target="_blank" alt="Image Resizer website link"> Image Resizer.</a>
+
+# Acknowledgements
+
+As a student of code institue persuing Web Development I wanted to use the skills and knowledge through the course to create a Website offering Web development services with an aim to build more diverse projects for surrounding startups and business and add to my portfolio. Projects interested will be either paid or pro-bono with main goal of building large portfolio for future.
+
+### This is for educational purpose
