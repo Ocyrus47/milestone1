@@ -221,7 +221,7 @@ To cut ties with this GitHub repository, type git remote rm origin into the term
 
 # Credits
 
-All content in the website was written by me. 
+All content in this website was written by me. 
 
 ### Media
 
