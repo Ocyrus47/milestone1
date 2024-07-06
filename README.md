@@ -122,6 +122,19 @@ This website code was validate by using **W3C CSS Validation Service** and **W3C
 
 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+Client stories testing:
+
+Navigation path through the website:
+
+<ul>
+    <li>Home -> Services -> (Web and UX Design/Web Development/Web Maintainance) -> Contact</li>
+    <li>Service page offers 3 paths where the user will have option to select any of the service option to take them to the selected page</li>
+</ul>
+
+### Manual testing of all functions and features in the website:
+
+Home Page
+
 
 
 ## Deployment
