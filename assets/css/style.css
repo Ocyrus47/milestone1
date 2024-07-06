@@ -28,8 +28,8 @@ body {
 }
 
 
-
 /************************************ Nav bar *****************************/
+
 
 #navbar {
     font-size: 150%;
@@ -37,11 +37,6 @@ body {
     list-style-type: none;
     letter-spacing: 2px;
     text-transform: uppercase;
-}
-
-header {
-    position: sticky;
-    top: 0;
 }
 
 #navbar li {
