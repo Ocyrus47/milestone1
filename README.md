@@ -15,7 +15,7 @@ This is a responsive website for anyone who is looking to design or build a new 
     <li>Web Maintainance - contains video on why you need to maintain your website and profile of clientele interested in the service.</li>
 </ol>
 
-### Scope
+## Scope
 
 The website takes into consideration the work required to build and maintain a responsive website for startups, businesses and agencies. Understanding the line of business for the project and the emotion driven decisions for the potential customers for startup or the requirements required by agencies, this website is designed to have fewest number of steps to bring their questions and projects in front of the service provider. 
 
@@ -36,7 +36,7 @@ Customer goal for this website are:
     <li>Engaging and easy UX to categorise their profile for required service.</li>
 </ul>
 
-### UX
+## UX
 
 Ideal customers for the business are:
 
@@ -53,7 +53,7 @@ Visitors to the website are:
     <li>Gaining information on industry standard and best practices for choosing companies to build and maintain their custom websites</li>
 </ul>
 
-### User stories
+## User stories
 
 <ol>
     <li>As a new visitor, I want to easily navigate throught the website to find the information quickly</li>
@@ -74,6 +74,9 @@ My goal in the design was to make it as easy as possible to access information o
 
 HTML 5
 CSS 
+Font Awesome
+Google Fonts
+Youtube Embed video
 
-### Features
+## Features
 
