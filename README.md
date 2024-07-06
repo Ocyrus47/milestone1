@@ -51,5 +51,16 @@ Visitors to the website are:
     <li>Gaining information on industry standard and best practices for choosing companies to build and maintain their custom websites</li>
 </ul>
 
+## User stories
 
+<ol>
+    <li>As a new visitor, I want to easily navigate throught the website to find the information quickly</li>
+    <li>As a new visitor, I don't want the website to provide me with informaiton on service provided in engaging fashion</li>
+    <li>As a new visitor, I want the website to give me guide lines before hiring a web developer.</li>
+    <li>As a potential client, I want to reach out to the service provider as quickly as possible with minimun interruptions or steps involved.</li>
+    <li>As a potential client, I want to discuss my project plan with the point of contact quickly and effeciently.</li>
+    <li>As a potential client, I want to select the different service options provided (Web Design, Web Development, Web Maintainance).</li>
+    <li>As a returning client, I want to be able to select the service option required (Web Design, Web Development, Web Maintainance) for meeting/call back.</li>
+    <li>As an observer or potential client, I want to follow the social media for real time updates and reviews.</li>
+</ol>
 
