@@ -133,7 +133,7 @@ Navigation path through the website:
 
 ### Manual testing of all functions and features in the website:
 
-#### Menu Bar
+#### Menu Bar test completed ![Completd icon](assets/images/complete.png)
 
 Top of every page in the website. Tested for links to correct pages all work as expected. All links opens selected page in a new tab.
 
@@ -141,14 +141,14 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
 
 ![Menu Bar Test screenshot](/assets/images/MenuBar.jpg)
 
-#### Home Page - Test completed
+#### Home Page - Test completed ![Completd icon](assets/images/complete.png)
 
 <ol>
     <li>Minimal design to with a tagline and a bit of information about what I do.</li> 
     <li>Animated background image zooming forwards for engaging UX.</li>
 </ol>
 
-#### Service Page - Test completed
+#### Service Page - Test completed ![Completd icon](assets/images/complete.png)
 
 <ol>
     <li>Tagline zooming backwards.</li>
@@ -160,7 +160,7 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
 
 ![Services page test screen shot](assets/images/Service%20page.jpg)
 
-#### Contact Page - Test completed
+#### Contact Page - Test completed ![Completd icon](assets/images/complete.png)
 
 <ol>
     <li>Contact details include watsapp, on mouse it take the user to watsapp site in a new tab.</li>
@@ -176,7 +176,7 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
 
 ![Google map with address pin test screen shot](assets/images/Map.jpg)
 
-#### Web & UX/Web Development/Web Maintainance Page - Test completed
+#### Web & UX/Web Development/Web Maintainance Page - Test completed ![Completd icon](assets/images/complete.png)
 
 <ol>
     <li>Youtube embed video to fit within the container</li>
@@ -186,7 +186,7 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
 
 ![Video on services test screen shot](assets/images/video-test.jpg)
 
-### Footer
+### Footer - Test completed ![Completd icon](assets/images/complete.png)
 
 <ol>
     <li>Social icon enlarge and change color on hover effect</li>
@@ -224,3 +224,5 @@ Company logo was created from <a href="https://www.freelogodesign.org/" target="
 All background image was taken from <a href="https://www.pexels.com/" target="_blank" alt="Pixel website link"> Pixel </a>.
 
 Images in services page was used from <a href="https://www.flaticon.com/" target="_blank" alt="Flaticon website link"> Flaticon.</a>
+
+Completed icon for readme was resized from <a href="https://imageresizer.com/" target="_blank" alt="Image Resizer website link"> Image Resizer.</a>
