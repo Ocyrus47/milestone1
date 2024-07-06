@@ -72,11 +72,13 @@ My goal in the design was to make it as easy as possible to access information o
 
 ## Technologies
 
-HTML 5
-CSS 
-Font Awesome
-Google Fonts
-Youtube Embed video
+<ul>
+    <li>HTML 5</li>
+    <li>CSS</li>
+    <li>Font Awesome</li>
+    <li>Google Fonts</li>
+    <li>Youtube Embed video</li>
+</ul>
 
 ## Features
 
