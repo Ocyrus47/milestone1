@@ -67,6 +67,12 @@ Visitors to the website are:
     <li>As an observer or potential client, I want to follow the social media for real time updates and reviews.</li>
 </ol>
 
+## Wireframes
+
+[Home Page](assets/images/ 'link to Markup validator')
+[Services Page](https://validator.w3.org/ 'link to Markup validator')
+[Contact Page](https://validator.w3.org/ 'link to Markup validator')
+
 ### Strategy
 
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and engaging UX design.
