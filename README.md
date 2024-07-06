@@ -69,9 +69,9 @@ Visitors to the website are:
 
 ## Wireframes
 
-[Home Page](assets/images/ 'link to Markup validator')
-[Services Page](https://validator.w3.org/ 'link to Markup validator')
-[Contact Page](https://validator.w3.org/ 'link to Markup validator')
+[Home Page](assets/images/Wireframe%20-%20Home.png 'link to Home wireframe image')
+[Services Page](assets/images/Wireframe%20-%20Services.png 'link to Services wireframe image')
+[Contact Page](assets/images/Wireframe%20-%20Contact.png 'link to Contact wireframe image')
 
 ### Strategy
 
