@@ -34,5 +34,13 @@ Customer goal for this website are:
     <li>Engaging and easy UX to categorise their profile for required service.</li>
 </ul>
 
+##UX
 
+Ideal customers for the business are:
+
+<ul>
+    <li>English speaking</li>
+    <li>Startups, SME or Large companies and Agencies</li>
+    <li>Looking to start new project or hiring for an ongoing project</li>
+</ul>
 
