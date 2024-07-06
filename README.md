@@ -44,3 +44,12 @@ Ideal customers for the business are:
     <li>Looking to start new project or hiring for an ongoing project</li>
 </ul>
 
+Visitors to the website are:
+
+<ul>
+    <li>Looking for freelances and developers to design, build and maintain their custom websites.</li>
+    <li>Gaining information on industry standard and best practices for choosing companies to build and maintain their custom websites</li>
+</ul>
+
+
+
