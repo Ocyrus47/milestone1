@@ -15,6 +15,8 @@ This is a responsive website for anyone who is looking to design or build a new 
     <li>Web Maintainance - contains video on why you need to maintain your website and profile of clientele interested in the service.</li>
 </ol>
 
+## Scope
+
 The website takes into consideration the work required to build and maintain a responsive website for startups, businesses and agencies. Understanding the line of business for the project and the emotion driven decisions for the potential customers for startup or the requirements required by agencies, this website is designed to have fewest number of steps to bring their questions and projects in front of the service provider. 
 
 Business goal for this website are:
@@ -67,4 +69,9 @@ Visitors to the website are:
 ## Strategy
 
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and engaging UX design.
+
+## Technologies
+
+HTML 5
+CSS 
 
