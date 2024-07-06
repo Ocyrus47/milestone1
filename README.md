@@ -117,6 +117,9 @@ Feature to implement in the future
 
 This website code was validate by using **W3C CSS Validation Service** and **W3C Markup Validation Service**.
 
+[**W3C Markup Valication Service**] (https://validator.w3.org/)
+[**W3C CSS Calidation Service**](https://jigsaw.w3.org/css-validator/)
+
 ## Deployment
 
 This project was developed using Gitpod IDE. Commits to git and pushed to Github were mage using the built in function in Gitpod.
