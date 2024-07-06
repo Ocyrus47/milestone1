@@ -139,7 +139,7 @@ Top of every page in the website. Tested for links to correct pages all work as 
 
 Logo is linked to the home page and on mouse clicks open the home page in a new tab.
 
-![Menu Bar Test](/assets/images/)
+![Menu Bar Test screenshot](/assets/images/MenuBar.jpg)
 
 #### Home Page - Test completed
 
@@ -158,6 +158,8 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
     <li>Web Maintainance container has zoon forward effect on hover and opens a the Web Maintainance page in new tab on click</li>
 </ol>
 
+![Services page test screen shot](assets/images/Service%20page.jpg)
+
 #### Contact Page - Test completed
 
 <ol>
@@ -167,7 +169,12 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
     <li>Input fields has a required requirement for submitting details</li>
     <li>Radio options has a required requirement for submitting details </li>
     <li>Button has a zoom forward effect on hover</li>
+    <li>Google map showing the correct pin for address</li>
 </ol>
+
+![Contact page test screen shot](assets/images/Contact%20page.png)
+
+![Google map with address pin test screen shot](assets/images/Map.jpg)
 
 #### Web & UX/Web Development/Web Maintainance Page - Test completed
 
@@ -176,6 +183,17 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
     <li>Youtube embed video will require user to click to play</li>
     <li>Links for "Hear from you" and "get in touch" to contact page.</li>
 </ol>
+
+![Video on services test screen shot](assets/images/video-test.jpg)
+
+### Footer
+
+<ol>
+    <li>Social icon enlarge and change color on hover effect</li>
+    <li>Social icon on mouse click open a new tab for the website/application</li>
+</ol>
+
+![Social icons test screen shot](assets/images/Social%20icons.jpg)
 
 ## Deployment
 
