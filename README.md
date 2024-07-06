@@ -118,9 +118,9 @@ Feature to implement in the future
 This website code was validate by using **W3C CSS Validation Service** and **W3C Markup Validation Service**.
 
 
-[W3C Markup Valication Service](https://validator.w3.org/)
+[W3C Markup Valication Service](https://validator.w3.org/ 'link to Markup validator')
 
-[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ 'link to CSS validator')
 
 Client stories testing:
 
@@ -133,9 +133,47 @@ Navigation path through the website:
 
 ### Manual testing of all functions and features in the website:
 
-Home Page
+#### Menu Bar
 
+Top of every page in the website. Tested for links to correct pages all work as expected. All links opens selected page in a new tab.
 
+Logo is linked to the home page and on mouse clicks open the home page in a new tab.
+
+#### Home Page - Test completed
+
+<ol>
+    <li>Minimal design to with a tagline and a bit of information about what I do.</li> 
+    <li>Animated background image zooming forwards for engaging UX.</li>
+</ol>
+
+#### Service Page - Test completed
+
+<ol>
+    <li>Tagline zooming backwards.</li>
+    <li>Button titled "Hire me" has zoom out effect on hover and opens up contact page in new tab on click.</li>
+    <li>Web and UX Design container has zoon forward effect on hover and opens a the Web and UX Design page in new tab on click</li>
+    <li>Web Development container has zoon forward effect on hover and opens a the Web Development page in new tab on click</li>
+    <li>Web Maintainance container has zoon forward effect on hover and opens a the Web Maintainance page in new tab on click</li>
+</ol>
+
+#### Contact Page - Test completed
+
+<ol>
+    <li>Contact details include watsapp, on mouse it take the user to watsapp site in a new tab.</li>
+    <li>Contact details include Email, on mouse it take the user to open email client/app.</li>
+    <li>Contact details include drop down menu, optional requirement for user to selet when reaching out</li>
+    <li>Input fields has a required requirement for submitting details</li>
+    <li>Radio options has a required requirement for submitting details </li>
+    <li>Button has a zoom forward effect on hover</li>
+</ol>
+
+#### Web & UX/Web Development/Web Maintainance Page - Test completed
+
+<ol>
+    <li>Youtube embed video to fit within the container</li>
+    <li>Youtube embed video will require user to click to play</li>
+    <li>Links for "Hear from you" and "get in touch" to contact page.</li>
+</ol>
 
 ## Deployment
 
