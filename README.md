@@ -92,24 +92,24 @@ My goal in the design was to make it as easy as possible to access information o
 
 ### Existing features
 
-Header and footer
+#### Header and footer:
 
 There is a header in every page with company logo linking back to home/index page to the right for easy navigation and home, service, contact page to the right. There is also a footer in every page with copyright information and social media icons zooming in and changing color upon mouse over and linking to the respective sites.
 
-Home
+#### Home:
 
 The site uses key frame animation to zoom the home page background image forwards.
 
-Service
+#### Service:
 
 Service page has call to action (hire me) button taking to contact page. Service page also has 3 containers zooming forward to highlight the selection on mouse over taking the user to the respective page in new tab and each page contains youtube embed videos.
 
-Contact
+#### Contact:
 
 Contact page has a link for users to watsapp applicaiton and email client link in contact info opening in a seperate tab. There is also a drop down menu for user to choose how they found the site. The bottom of form contains a send button. Not completing the form and trying to submit will result in prompting the user to fill in the required field. 
 
 
-Feature to implement in the future
+#### Feature to implement in the future:
 
 <ul>
     <li>Add protfolio page with completed projects.</li>
