@@ -69,9 +69,9 @@ Visitors to the website are:
 
 ## Wireframes
 
-[Home Page](assets/images/Wireframe%20-%20Home.png 'link to Home wireframe image')
-[Services Page](assets/images/Wireframe%20-%20Services.png 'link to Services wireframe image')
-[Contact Page](assets/images/Wireframe%20-%20Contact.png 'link to Contact wireframe image')
+1. [Home Page](assets/images/Wireframe%20-%20Home.png 'link to Home wireframe image')
+2. [Services Page](assets/images/Wireframe%20-%20Services.png 'link to Services wireframe image')
+3. [Contact Page](assets/images/Wireframe%20-%20Contact.png 'link to Contact wireframe image')
 
 ### Strategy
 
