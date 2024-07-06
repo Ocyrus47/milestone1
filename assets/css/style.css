@@ -39,6 +39,11 @@ body {
     text-transform: uppercase;
 }
 
+header {
+    position: sticky;
+    top: 0;
+}
+
 #navbar li {
     float: right;
     margin-right: 30px;
@@ -61,10 +66,6 @@ body {
     border-bottom: 1px solid #92220b;
 }
 
-.menu-position {
-    position: sticky;
-    top: 0;
-}
 
 /************************************ index Background Image *****************************/
 
