@@ -113,4 +113,12 @@ Feature to implement in the future
     <li>FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript Needed for dropdown functionality.</li>
 </ul>
 
+## Testing
+
+This website code was validate by using **W3C CSS Validation Service** and **W3C Markup Validation Service**.
+
+## Deployment
+
+This project was developed using Gitpod IDE. Commits to git and pushed to Github were mage using the built in function in Gitpod.
+
 
