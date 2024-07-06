@@ -139,6 +139,8 @@ Top of every page in the website. Tested for links to correct pages all work as 
 
 Logo is linked to the home page and on mouse clicks open the home page in a new tab.
 
+![Menu Bar Test](/assets/images/)
+
 #### Home Page - Test completed
 
 <ol>
