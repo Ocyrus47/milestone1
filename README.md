@@ -117,10 +117,12 @@ Feature to implement in the future
 
 This website code was validate by using **W3C CSS Validation Service** and **W3C Markup Validation Service**.
 
-<ul>
-    <li>[W3C Markup Valication Service](https://validator.w3.org/)</li>
-    <li>[W3C CSS Calidation Service](https://jigsaw.w3.org/css-validator/)</li>
-</ul>
+
+[W3C Markup Valication Service](https://validator.w3.org/)
+
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+
 
 ## Deployment
 
