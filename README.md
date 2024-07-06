@@ -139,7 +139,7 @@ Navigation path through the website:
 
 ### Manual testing of all functions and features in the website:
 
-#### Menu Bar test completed ![Completd icon](assets/images/complete.png)
+#### Menu - Bar test completed ![Completd icon](assets/images/complete.png)
 
 Top of every page in the website. Tested for links to correct pages all work as expected. All links opens selected page in a new tab.
 
