@@ -34,7 +34,7 @@ Customer goal for this website are:
     <li>Engaging and easy UX to categorise their profile for required service.</li>
 </ul>
 
-##UX
+## UX
 
 Ideal customers for the business are:
 
