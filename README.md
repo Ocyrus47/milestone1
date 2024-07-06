@@ -217,7 +217,7 @@ To run the code within you IDE locally eg, Gitpot, follow the steps below:
 <li>Press Enter. Your local clone will be created.</li>
 </ol>
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone <a href="https://github.com/Ocyrus47/milestone1" target="_blank">Milestone 1 project / OL Designs</a> git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 # Credits
 
