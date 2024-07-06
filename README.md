@@ -84,7 +84,7 @@ My goal in the design was to make it as easy as possible to access information o
 
 ## Features
 
-Existing features
+### Existing features
 
 Header and footer
 
