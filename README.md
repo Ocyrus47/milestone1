@@ -109,5 +109,8 @@ Feature to implement in the future
     <li>Add protfolio page with completed projects.</li>
     <li>Add scrollSpy feature in Bootstrap with an extra JavaScript function to create a 'smooth scrolling' effect.</li>
     <li>Add animation to the icon in services page for each service on hover effect.</li>
+    <li>GDPR compliant pop-up screen - Allows new visitors to the website to approve or deny the processing of their personal data. - Javascript Needed</li>
+    <li>FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript Needed for dropdown functionality.</li>
 </ul>
+
 
