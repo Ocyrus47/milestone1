@@ -140,10 +140,12 @@ Navigation path through the website:
 ### Manual testing of all functions and features in the website:
 
 #### Menu Bar - Test completed ![Completd icon](assets/images/complete.png)
-
-Top of every page in the website. Tested for links to correct pages all work as expected. All links opens selected page in a new tab.
-
-Logo is linked to the home page and on mouse clicks open the home page in a new tab.
+<ul>
+    <li>Top of every page in the website.</li> 
+    <li>Tested for links to correct pages all work as expected. All links opens selected page in a new tab.</li>
+    <li>Active page is highted by underline</li>
+    <li>Logo is linked to the home page and on mouse clicks open the home page in a new tab.</li>
+</ul>
 
 ![Menu Bar Test screenshot](/assets/images/MenuBar.jpg)
 
