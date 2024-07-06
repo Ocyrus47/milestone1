@@ -177,6 +177,22 @@ Logo is linked to the home page and on mouse clicks open the home page in a new 
 
 ## Deployment
 
-This project was developed using Gitpod IDE. Commits to git and pushed to Github were mage using the built in function in Gitpod.
+This project was developed using Gitpod IDE. Commits to git and push to Github were made using the built in function in Gitpod. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+
+To run the code within you IDE locally eg, Gitpot, follow the steps below:
+
+<ol>
+<li>Follow this link to the <a href="https://github.com/Ocyrus47/milestone1" target="_blank">Project GitHub repository.</a></li>
+<li>Under the repository name, click "Clone or download".</li>
+<li>In the Clone with HTTPs section, copy the clone URL for the repository.</li>
+<li>In your local IDE open the terminal.</li>
+<li>Change the current working directory to the location where you want the cloned directory to be made.</li>
+<li>Type git clone, and then paste the URL you copied in Step 3.</li>
+<li>Press Enter. Your local clone will be created.</li>
+</ol>
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone <a href="https://github.com/Ocyrus47/milestone1" target="_blank">Milestone 1 project / OL Designs</a> git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+# Credits
 
 
