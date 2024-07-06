@@ -195,4 +195,12 @@ To run locally, you can clone this repository directly into the editor of your c
 
 # Credits
 
+All content in the website was written by me. 
 
+### Media
+
+Company logo was created from <a href="https://www.freelogodesign.org/" target="_blank" alt="Freelogo Design website link"> Freelogo Design.</a>
+
+All background image was taken from <a href="https://www.pexels.com/" target="_blank" alt="Pixel website link"> Pixel </a>.
+
+Images in services page was used from <a href="https://www.flaticon.com/" target="_blank" alt="Flaticon website link"> Flaticon.</a>
