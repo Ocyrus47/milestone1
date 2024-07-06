@@ -102,3 +102,12 @@ Contact
 
 Contact page has a link for users to watsapp applicaiton and email client link in contact info opening in a seperate tab. There is also a drop down menu for user to choose how they found the site. The bottom of form contains a send button. Not completing the form and trying to submit will result in prompting the user to fill in the required field. 
 
+
+Feature to implement in the future
+
+<ul>
+    <li>Add protfolio page with completed projects.</li>
+    <li>Add scrollSpy feature in Bootstrap with an extra JavaScript function to create a 'smooth scrolling' effect.</li>
+    <li>Add animation to the icon in services page for each service on hover effect.</li>
+</ul>
+
