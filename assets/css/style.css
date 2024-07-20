@@ -671,7 +671,7 @@ footer h3 {
 
 /************************************ Media Queries *****************************/
 
-@media screen and (max-width: 625px){
+@media screen and (min-width: 600px){
 
 /*********************************** index.html ********************************/
 
