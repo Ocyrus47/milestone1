@@ -223,15 +223,6 @@ body {
 /************************************ service container/service.html *****************************/
 
 
-#service-hire-container {
-    margin-top: 60px;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 90%;
-}
-
 .hero-outer-2 {
     height: 400px;
     width: 100%;
@@ -239,6 +230,15 @@ body {
     position: relative;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
+}
+
+#service-hire-container {
+    margin-top: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 90%;
 }
 
 #service-container {
@@ -519,7 +519,7 @@ input::placeholder {
     position: relative;
 }
 
-.service-info-bg{
+.service-info-bg {
     height: 1000px;
     width: 100%;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
