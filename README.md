@@ -7,6 +7,10 @@
 
 This is a responsive website for anyone who is looking to design or build a new or maintain their current custom website. The website features information and best practice youtube videos from industry experts for interested individuals looking to hire OL Designs (me) for the purpose of designing, developing or mainting their website. The website contains 6 pages in total which are home/index, services, contact, Design & UX, Web Development and Web Maintainance page. The primary goal of the website is to lead potential customers to making first contact with the web developer via the contact page and offer them industry knowledge for web design, development and maintainance.
 
+## SDLC
+
+
+
 <ol>
     <li>Home/index - contains main navigation/menu at top with company logo (link to home page) with animaiton zooming forwards.</li>
     <li>services - contains 2 sections. The Hire me button linking to contact us page and the services containers linkingto their respective pages for more details</li>
