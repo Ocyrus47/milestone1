@@ -321,7 +321,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: justify;
-    margin: 20px 300px;
 
     display: flex;
 
@@ -873,8 +872,8 @@ footer h3 {
 
 .contact-info h4 {
     font-size: 15px;
-    padding-bottom: 10px;
-    margin-bottom: 0;
+    padding-bottom: 5px;
+    margin-top: 20px;
 }
 
 .contact-info h5 {
