@@ -64,7 +64,7 @@ body {
 
 /************************************ index Background Image *****************************/
 
-#hero-outer{
+#hero-outer {
     height: 800px;
     width: 100%;
     overflow: hidden;
@@ -135,11 +135,6 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
-}
-
-#service-bg-image {
-    height: 400px;
-    width: 100%;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
 }
@@ -228,6 +223,15 @@ body {
 /************************************ service container/service.html *****************************/
 
 
+#service-hire-container {
+    margin-top: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 90%;
+}
+
 .hero-outer-2 {
     height: 400px;
     width: 100%;
@@ -241,6 +245,7 @@ body {
     margin-top: 60px;
     padding: 10px;
     display: flex;
+    align-items: center;
     justify-content: center;
     opacity: 90%;
 }
@@ -293,16 +298,21 @@ body {
 
 
 .contact-bg-image {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
-    height: 800px;
 }
 
 #contact-container {
-    margin: 0px 15px;
-    padding: 15px;
-    padding-top: 40px;
+    height: 800px;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 90%;
 }
 
 .contact-form {
@@ -328,8 +338,11 @@ body {
     border-radius: 10px;
 }
 
-#contact-container h3 {
+
+#hero-outer h3 {
     font-weight: 400;
+    text-align: center;
+    padding-top: 25px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 25px;
@@ -570,7 +583,11 @@ input::placeholder {
 }
 
 .service-info-form h2, .service-info-form-1 h2 {
-    margin-top: 50px;
+    margin-top: 60px;
+}
+
+.service-info-block {
+    margin-top: 0px;
 }
 
 .service-info-block h1, .service-info-block span {
@@ -774,16 +791,16 @@ footer h3 {
     height: 1050px;
 }
 
+#contact-container {
+    margin-top: 30px;
+}
+
 .contact-bg-image {
     height: 1050px;
 }
 
 #bg-image {
     height: 1050px;
-}
-
-#hero-outer h3 {
-    font-size: 15px;
 }
 
 .contact-form {
@@ -982,6 +999,5 @@ footer h3 {
 .service-info-form > p, .service-info-form-1 > p {
     display: none;
 }
-
 
 }
