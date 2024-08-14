@@ -128,6 +128,29 @@ This website code was validate by using **W3C CSS Validation Service** and **W3C
 
 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ 'link to CSS validator')
 
+Screen shots below:
+
+### Index.html ![Completd icon](assets/images/complete.png)
+![index.html validator test complete screenshot](/assets/images/index.html%20-%20validator%20check%20complete.jpg)
+
+### service.html ![Completd icon](assets/images/complete.png)
+![service.html validator test complete screenshot](/assets/images/Service.html%20-%20validator%20check%20complete.jpg)
+
+### contact.html ![Completd icon](assets/images/complete.png)
+![contact.html validator test complete screenshot](/assets/images/contact.html%20-%20validator%20check%20complete.jpg)
+
+### webandux.html ![Completd icon](assets/images/complete.png)
+![webandux.html validator test complete screenshot](/assets/images/webandux.html%20-%20validator%20check%20complete.jpg)
+
+### webdev.html ![Completd icon](assets/images/complete.png)
+![webdev.html validator test complete screenshot](/assets/images/webdev.html%20-%20validator%20check%20complete.jpg)
+
+### webmaint.html ![Completd icon](assets/images/complete.png)
+![webmaint.html validator test complete screenshot](/assets/images/webmaint.html%20-%20validator%20check%20complete.jpg)
+
+### style.css ![Completd icon](assets/images/complete.png)
+![style.css validator test complete screenshot](/assets/images/style.css%20-%20validator%20check%20complete.jpg)
+
 Client stories testing:
 
 Navigation path through the website:
