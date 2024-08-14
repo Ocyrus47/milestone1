@@ -41,7 +41,7 @@ Customer goal for this website are:
     <li>Engaging and easy UX to categorise their profile for required service.</li>
 </ul>
 
-## UX
+## UX /UI
 
 Ideal customers for the business are:
 
@@ -57,6 +57,21 @@ Visitors to the website are:
     <li>Looking for freelances and developers to design, build and maintain their custom websites.</li>
     <li>Gaining information on industry standard and best practices for choosing companies to build and maintain their custom websites</li>
 </ul>
+
+### service.html screen shot
+![service.html UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot.jpg)
+
+![service.html validator test complete screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+
+### contact.html screen shot
+![service.html validator test complete screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot.jpg)
+
+![service.html validator test complete screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+
+### wenandux.html screen shot
+![service.html validator test complete screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot.jpg)
+
+![service.html validator test complete screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
 ## User stories
 
