@@ -671,7 +671,7 @@ footer h3 {
 
 /************************************ Media Queries *****************************/
 
-@media screen and (min-width: 600px){
+@media screen and (max-width: 600px){
 
 /*********************************** index.html ********************************/
 
@@ -696,11 +696,11 @@ footer h3 {
 
 #index-outer-text {
     font-size: 10px;
-    top: 125px;
-    left: 110px;
-    
+      
+    text-align: center;
+
     width: 250px;
-    height: 80px;
+    height: 100px;
     letter-spacing: 1px;
 
     padding-top: 15px;
@@ -967,6 +967,11 @@ footer h3 {
 
 .service-info-form-1 br {
     display: none;
+}
+
+
+@media screen and (min-width: 600px){
+
 }
 
 /***** paragraph hidden immideate after h1 *****/ 
