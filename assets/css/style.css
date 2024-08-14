@@ -518,12 +518,12 @@ input::placeholder {
     font-size: 17px;
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     font-weight: 300;
-    text-align: justify;
-    margin: 50px 150px;
-    
+    text-align: center;
+    margin: 50px 300px;
+
     display: block;
     
-    width: 800px;
+    width: 1200px;
     height: 470px;
     
     padding: 15px;
@@ -550,7 +550,7 @@ input::placeholder {
     font-family: "Barlow", Arial, Helvetica, sans-serif;
     width: 1200px;
     height: 350px;
-    margin-right: 60px;
+    margin: 50px;
     padding-top: 25px;
     border-radius: 15px;
     text-align: center;
@@ -567,6 +567,10 @@ input::placeholder {
     padding-top: 25px;
     border-radius: 15px;
     text-align: center;
+}
+
+.service-info-form h2, .service-info-form-1 h2 {
+    margin-top: 50px;
 }
 
 .service-info-block h1, .service-info-block span {
