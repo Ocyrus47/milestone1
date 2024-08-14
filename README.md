@@ -7,9 +7,25 @@
 
 This is a responsive website for anyone who is looking to design or build a new or maintain their current custom website. The website features information and best practice youtube videos from industry experts for interested individuals looking to hire OL Designs (me) for the purpose of designing, developing or mainting their website. The website contains 6 pages in total which are home/index, services, contact, Design & UX, Web Development and Web Maintainance page. The primary goal of the website is to lead potential customers to making first contact with the web developer via the contact page and offer them industry knowledge for web design, development and maintainance.
 
-## SDLC
+## SDLC Process
 
+#### Planing
+I decided to build a web design website to align the project with my goals. Planing was taken into consideation with a view for future projects to be added to the portfolio. 
 
+#### Analysis
+I carried out research in google and by talking to local businesses regarding their approach to reach and attract customer. Very few understood the benifits and strengths of having a digital presence and relied mostly on facebook platform. So I decided to include information on web design, development and maintainance for strengthining the out reach for local businesses/SME/Agencies via my website. 
+
+#### Design
+Carefully consulted with local business owners on the design of how they would be attracted and open to the idea of building their own websites. Also consulted with established web designer online to reach an agreement of keeping the site simple and basic. 
+
+#### Implementation
+Researched on the best practice for implementation process and applied agile methodology. Changes were made in conjuction with quick sprint session with volunteers on UI/UX. 
+
+#### Testing
+Used manual testing method by direct input. Screen shots and details testing below.
+
+#### Maintainance
+I will carry out maintainance by my own account via Gitpod (VS Code) and Github. I am looking to implement further functionalities and upgrade UI/UX features.
 
 <ol>
     <li>Home/index - contains main navigation/menu at top with company logo (link to home page) with animaiton zooming forwards.</li>
@@ -142,10 +158,21 @@ Contact page has a link for users to watsapp applicaiton and email client link i
 
 This website code was validate by using **W3C CSS Validation Service** and **W3C Markup Validation Service**.
 
-
 [W3C Markup Valication Service](https://validator.w3.org/ 'link to Markup validator')
 
 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ 'link to CSS validator')
+
+### BUGS found and resolution
+
+Alignment bugs found for contact.html page. 
+Resolved the issue by amending the service-container class to:-
+display: flex;  
+align-items: center;
+justify-content: center;
+
+Heading bug found in contact page for mobile view:-
+Resolved the issue by moving the h3 element above contact-container id in contact.html 
+
 
 Screen shots below:
 
