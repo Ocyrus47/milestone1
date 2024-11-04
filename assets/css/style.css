@@ -69,6 +69,7 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
+    display: flex;
 }
 
 #bg-image {
@@ -714,16 +715,23 @@ footer h3 {
     font-weight: 400;
 }
 
+#hero-outer {
+    display: flex;
+    text-align: justify;
+}
+
 #index-outer-text {
-    font-size: 10px;
-      
+    font-size: 8px;
+    
     text-align: center;
 
     width: 250px;
-    height: 100px;
+    height: 120px;
     letter-spacing: 1px;
 
-    padding-top: 15px;
+    padding-top: 10px;
+
+    left: 120px;
 }
 
  #index-outer-text, #index-outer-text h2 , #index-outer-text h3 {
