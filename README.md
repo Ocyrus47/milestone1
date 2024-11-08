@@ -177,7 +177,7 @@ Resolved the issue by moving the h3 element above contact-container id in contac
 Screen shots below:
 
 ### Index.html ![Completd icon](assets/images/complete.png)
-![index.html validator test complete screenshot](/assets/images/index.html%20-%20validator%20check%20complete.jpg)
+![index.html validator test complete screenshot](/assets/images/index.html-validator-check-complete.jpg)
 
 ### service.html ![Completd icon](assets/images/complete.png)
 ![service.html validator test complete screenshot](/assets/images/Service.html%20-%20validator%20check%20complete.jpg)
@@ -216,7 +216,7 @@ Navigation path through the website:
     <li>Logo is linked to the home page and on mouse clicks open the home page in a new tab.</li>
 </ul>
 
-![Menu Bar Test screenshot](/assets/images/MenuBar.jpg)
+![Menu Bar Test screenshot](/assets/images/menubar.jpg)
 
 #### Home Page - Test completed ![Completd icon](assets/images/complete.png)
 
@@ -235,7 +235,7 @@ Navigation path through the website:
     <li>Web Maintainance container has zoon forward effect on hover and opens a the Web Maintainance page in new tab on click</li>
 </ol>
 
-![Services page test screen shot](assets/images/Service%20page.jpg)
+![Services page test screen shot](assets/images/service-page.jpg)
 
 #### Contact Page - Test completed ![Completd icon](assets/images/complete.png)
 
