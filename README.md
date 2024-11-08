@@ -75,14 +75,14 @@ Visitors to the website are:
 </ul>
 
 ### service.html screen shot
-![service.html UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot.jpg)
+![service.html UI screenshot](/assets/images/service.html-ui-page-screen-shot.jpg)
 
-![service.html mobile UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+![service.html mobile UI screenshot](/assets/images/service.html-ui-page-screen-shot-mobile-device.jpg)
 
 ### wenandux.html screen shot
-![webandux.html UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot.jpg)
+![webandux.html UI screenshot](/assets/images/webandux.html-ui-page-screen-shot.jpg)
 
-![webandux.html mobile UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+![webandux.html mobile UI screenshot](/assets/images/webandux.html-ui-page-screen-shot-mobile-device.jpg)
 
 ### contact.html screen shot
 ![contact.html UI screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
@@ -104,9 +104,9 @@ Visitors to the website are:
 
 ## Wireframes
 
-1. [Home Page](assets/images/Wireframe%20-%20Home.png 'link to Home wireframe image')
-2. [Services Page](assets/images/Wireframe%20-%20Services.png 'link to Services wireframe image')
-3. [Contact Page](assets/images/Wireframe%20-%20Contact.png 'link to Contact wireframe image')
+1. [Home Page](assets/images/wireframe-home.png 'link to Home wireframe image')
+2. [Services Page](assets/images/wireframe-services.png 'link to Services wireframe image')
+3. [Contact Page](assets/images/wireframe-contact.png 'link to Contact wireframe image')
 
 ### Strategy
 
@@ -180,22 +180,22 @@ Screen shots below:
 ![index.html validator test complete screenshot](/assets/images/index.html-validator-check-complete.jpg)
 
 ### service.html ![Completd icon](assets/images/complete.png)
-![service.html validator test complete screenshot](/assets/images/Service.html%20-%20validator%20check%20complete.jpg)
+![service.html validator test complete screenshot](/assets/images/Service.html-validator-check-complete.jpg)
 
 ### contact.html ![Completd icon](assets/images/complete.png)
 ![contact.html validator test complete screenshot](/assets/images/contact.html-validator-check-complete.jpg)
 
 ### webandux.html ![Completd icon](assets/images/complete.png)
-![webandux.html validator test complete screenshot](/assets/images/webandux.html%20-%20validator%20check%20complete.jpg)
+![webandux.html validator test complete screenshot](/assets/images/webandux.html-validator-check-complete.jpg)
 
 ### webdev.html ![Completd icon](assets/images/complete.png)
-![webdev.html validator test complete screenshot](/assets/images/webdev.html%20-%20validator%20check%20complete.jpg)
+![webdev.html validator test complete screenshot](/assets/images/webdev.html-validator-check-complete.jpg)
 
 ### webmaint.html ![Completd icon](assets/images/complete.png)
-![webmaint.html validator test complete screenshot](/assets/images/webmaint.html%20-%20validator%20check%20complete.jpg)
+![webmaint.html validator test complete screenshot](/assets/images/webmaint.html-validator-check-complete.jpg)
 
 ### style.css ![Completd icon](assets/images/complete.png)
-![style.css validator test complete screenshot](/assets/images/style.css%20-%20validator%20check%20complete.jpg)
+![style.css validator test complete screenshot](/assets/images/style.css-validator-check-complete.jpg)
 
 Client stories testing:
 
@@ -270,7 +270,7 @@ Navigation path through the website:
     <li>Social icon on mouse click open a new tab for the website/application</li>
 </ol>
 
-![Social icons test screen shot](assets/images/Social%20icons.jpg)
+![Social icons test screen shot](assets/images/social-icons.jpg)
 
 ## Deployment
 
