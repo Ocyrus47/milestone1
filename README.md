@@ -79,15 +79,15 @@ Visitors to the website are:
 
 ![service.html mobile UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
-### contact.html screen shot
-![contact.html UI screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
-
-![contact.html mobile UI screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
-
 ### wenandux.html screen shot
 ![webandux.html UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot.jpg)
 
 ![webandux.html mobile UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+
+### contact.html screen shot
+![contact.html UI screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
+
+![contact.html mobile UI screenshot](/assets/images/contact.html-ui-page-screen-shot-mobile-device.jpg)
 
 ## User stories
 
@@ -183,7 +183,7 @@ Screen shots below:
 ![service.html validator test complete screenshot](/assets/images/Service.html%20-%20validator%20check%20complete.jpg)
 
 ### contact.html ![Completd icon](assets/images/complete.png)
-![contact.html validator test complete screenshot](/assets/images/contact.html%20-%20validator%20check%20complete.jpg)
+![contact.html validator test complete screenshot](/assets/images/contact.html-validator-check-complete.jpg)
 
 ### webandux.html ![Completd icon](assets/images/complete.png)
 ![webandux.html validator test complete screenshot](/assets/images/webandux.html%20-%20validator%20check%20complete.jpg)
@@ -249,7 +249,7 @@ Navigation path through the website:
     <li>Google map showing the correct pin for address</li>
 </ol>
 
-![Contact page test screen shot](assets/images/Contact%20page.png)
+![Contact page test screen shot](assets/images/contact-page.png)
 
 ![Google map with address pin test screen shot](assets/images/map.jpg)
 
