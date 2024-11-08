@@ -180,7 +180,7 @@ Screen shots below:
 ![index.html validator test complete screenshot](/assets/images/index.html-validator-check-complete.jpg)
 
 ### service.html ![Completd icon](assets/images/complete.png)
-![service.html validator test complete screenshot](/assets/images/Service.html-validator-check-complete.jpg)
+![service.html validator test complete screenshot](/assets/images/service.html-validator-check-complete.jpg)
 
 ### contact.html ![Completd icon](assets/images/complete.png)
 ![contact.html validator test complete screenshot](/assets/images/contact.html-validator-check-complete.jpg)
