@@ -75,7 +75,7 @@ Visitors to the website are:
 </ul>
 
 ### service.html screen shot
-![service.html UI screenshot](/assets/images/service.contact-ui-page-screen-shot.jpg)
+![service.html UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot.jpg)
 
 ![service.html validator test complete screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
