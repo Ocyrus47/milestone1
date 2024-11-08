@@ -77,17 +77,17 @@ Visitors to the website are:
 ### service.html screen shot
 ![service.html UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot.jpg)
 
-![service.html validator test complete screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+![service.html mobile UI screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
 ### contact.html screen shot
-![service.html validator test complete screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
+![contact.html UI screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
 
-![service.html validator test complete screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+![contact.html mobile UI screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
 ### wenandux.html screen shot
-![service.html validator test complete screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot.jpg)
+![webandux.html UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot.jpg)
 
-![service.html validator test complete screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
+![webandux.html mobile UI screenshot](/assets/images/webandux.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
 ## User stories
 
