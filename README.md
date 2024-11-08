@@ -80,7 +80,7 @@ Visitors to the website are:
 ![service.html validator test complete screenshot](/assets/images/service.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
 ### contact.html screen shot
-![service.html validator test complete screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot.jpg)
+![service.html validator test complete screenshot](/assets/images/contact.html-ui-page-screen-shot.jpg)
 
 ![service.html validator test complete screenshot](/assets/images/contact.html%20-%20UI%20page%20screen%20shot%20-%20mobile%20device.jpg)
 
