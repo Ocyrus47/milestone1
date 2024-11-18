@@ -138,6 +138,7 @@ body {
     position: relative;
     background: url("../images/service-bg-image.jpg") no-repeat center center;
     background-size: cover;
+    display: flex;
 }
 
 
@@ -226,11 +227,13 @@ body {
 #service-hire-container {
     margin-top: 60px auto;
     padding: 10px;
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     opacity: 90%;
 }
+
 
 .hero-outer-2 {
     height: 400px;
@@ -689,7 +692,462 @@ footer h3 {
     padding-bottom: 15px;
 }
 
-/************************************ Media Queries *****************************/
+/************************************ Media Queries 1400px*****************************/
+
+@media screen and (max-width: 1400px) {
+
+#service-outer-text {
+    font-size: 10px;
+    top: 80px;
+    left: 400px;
+    width: 600px;
+    height: 150px;
+    letter-spacing: 1px;
+}        
+        
+.services-block {
+    width: 90%;
+    height: 170px;
+    margin-right: 150px;
+}
+    
+.services-block h4 {
+    font-size: 15px;
+    font-weight: 500;
+}
+    
+.service-icon {
+    width: 75px;
+    height: 75px;
+}
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+#hero-outer-service {
+    height: 850px;
+}
+
+.service-info-bg {
+    height: 850px;
+}
+
+.service-info-form, .service-info-form-1 {
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    height: 400px;
+}
+
+.service-info-block {
+    font-size: 15px;
+    display: block;
+    width: 100%;
+    height: 600px;
+    padding-top: 5px;
+    position: absolute;
+    margin-top: 50px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.video-input {
+    margin: 0 auto;
+}
+
+}
+
+/************************************ Media Queries 1300px*****************************/
+
+@media screen and (max-width: 1300px) {
+
+#service-outer-text {
+    font-size: 10px;
+    top: 80px;
+    left: 350px;
+    width: 600px;
+    height: 150px;
+    letter-spacing: 1px;
+}        
+        
+.services-block {
+    width: 90%;
+    height: 170px;
+    margin-right: 150px;
+}
+    
+.services-block h4 {
+    font-size: 15px;
+    font-weight: 500;
+}
+    
+.service-icon {
+    width: 75px;
+    height: 75px;
+}
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+#hero-outer-service {
+    height: 850px;
+}
+
+.service-info-bg {
+    height: 850px;
+}
+
+.service-info-form, .service-info-form-1 {
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    height: 400px;
+}
+
+.service-info-block {
+    font-size: 15px;
+    display: block;
+    width: 100%;
+    height: 600px;
+    padding-top: 5px;
+    position: absolute;
+    margin-top: 50px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.video-input {
+    margin: 0 auto;
+}
+
+}
+
+/************************************ Media Queries 1200px*****************************/
+
+@media screen and (max-width: 1200px) {
+
+/**********************************Service***************************************/
+
+.hero-outer-2 {
+    height: 400px;
+}
+
+#service-outer-text {
+    font-size: 10px;
+    top: 80px;
+    left: 250px;
+    width: 600px;
+    height: 150px;
+    letter-spacing: 1px;
+}        
+    
+        
+.services-block {
+    width: 90%;
+    height: 170px;
+    margin-right: 150px;
+}
+    
+.services-block h4 {
+    font-size: 15px;
+    font-weight: 500;
+}
+    
+.service-icon {
+    width: 75px;
+    height: 75px;
+}
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+#hero-outer-service {
+    height: 850px;
+}
+
+.service-info-bg {
+    height: 850px;
+}
+
+.service-info-form, .service-info-form-1 {
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    height: 400px;
+}
+
+.service-info-block {
+    font-size: 15px;
+    display: block;
+    width: 100%;
+    height: 600px;
+    padding-top: 5px;
+    position: absolute;
+    margin-top: 50px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.video-input {
+    margin: 0 auto;
+}
+
+
+/*************************************** Contact *************************************/
+
+.contact-form {
+    width: 1000px;
+    height: 600px;
+}
+}
+
+/************************************ Media Queries 1024px*****************************/
+
+@media screen and (max-width: 1024px) {
+    
+/**********************************Service***************************************/
+
+.hero-outer-2 {
+    height: 300px;
+}
+
+#service-outer-text {
+    font-size: 10px;
+    top: 80px;
+    left: 200px;
+    width: 500px;
+    height: 150px;
+    letter-spacing: 1px;
+}        
+    
+        
+.services-block {
+    width: 80%;
+    height: 150px;
+    margin-right: 100px;
+    background-color: rgba(95, 94, 94, 0.418);
+    padding-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+}
+    
+.services-block h4 {
+    font-family: "Barlow", Arial, Helvetica, sans-serif;
+    color: #92220b;
+    font-size: 15px;
+    font-weight: 500;
+}
+    
+.service-icon {
+    width: 90px;
+    height: 90px;
+}
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+#hero-outer-service {
+    height: 850px;
+}
+
+.service-info-bg {
+    height: 850px;
+}
+
+.service-info-form, .service-info-form-1 {
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 720px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.services-block-text {
+    height: 250px;
+}
+
+
+
+.video-input {
+    width: 350px;
+    height: 200px;
+}
+
+/*************************************** Contact *************************************/
+
+.contact-form {
+    width: 600px;
+    height: 500px;
+}
+
+
+.radio-inline {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.drop-down-find p {
+    font-size: 12px;
+}
+
+
+
+/************************ drop down/submit button *************************/
+
+.drop-down-find select {
+    width: 150px;
+}
+
+#submit-btn {
+    width: 150px;
+    height: 50px;
+}
+
+/******************************* Forms  ************************/
+
+.contact-details input, .contact-details textarea {
+    letter-spacing: 1px;
+    font-size: 9px;
+
+    display: inline-block;
+
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.contact-info textarea {
+    width: 300px;
+    height: 80px;
+}
+}
+
+
+@media screen and (max-width: 768px) {
+
+/************************************Index********************************************/
+
+#navbar {
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-left: 30px;
+}
+    
+#navbar li {
+    float: right;
+    margin-right: 15px;
+    font-weight: 200;
+}
+
+/**********************************Service***************************************/
+    
+.hero-outer-2 {
+    height: 600px;
+}
+
+#service-outer-text {
+    top: 80px;
+    left: 80px;
+    width: 500px;
+    height: 150px;
+}        
+    
+#service-container {
+    display: block;
+    margin: 0 auto;
+}
+        
+.services-block {
+    width: 100%;
+    height: 150px;
+} 
+.service-icon {
+    width: 50px;
+    height: 50px;
+}
+
+
+/*********************************** webandux.html/webmaint.html/webdev.html ********************************/
+
+
+.service-info-form, .service-info-form-1 {
+    width: 550px;
+    height: 300px;
+}
+
+.services-block-text {
+    height: 270px;
+}
+
+@media screen and (min-width: 600px){
+
+}
+
+/***** paragraph hidden immideate after h1 *****/ 
+.service-info-form > p, .service-info-form-1 > p {
+    display: none;
+}
+
+
+/*************************************** Contact *************************************/
+
+.contact-form {
+    width: 600px;
+    height: 500px;
+}
+
+
+.radio-inline {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.drop-down-find p {
+    font-size: 12px;
+}
+
+
+
+/************************ drop down/submit button *************************/
+
+.drop-down-find select {
+    width: 150px;
+}
+
+#submit-btn {
+    width: 150px;
+    height: 50px;
+}
+
+/******************************* Forms  ************************/
+
+.contact-details input, .contact-details textarea {
+    letter-spacing: 1px;
+    font-size: 9px;
+
+    display: inline-block;
+
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.contact-info textarea {
+    width: 300px;
+    height: 80px;
+}
+
+} 
+
+
+/************************************ Media Queries max 600px *****************************/
 
 @media screen and (max-width: 600px){
 
@@ -999,7 +1457,6 @@ footer h3 {
     display: none;
 }
 
-
 @media screen and (min-width: 600px){
 
 }
@@ -1010,3 +1467,9 @@ footer h3 {
 }
 
 }
+
+
+
+
+
+
